@@ -24,4 +24,7 @@ rootdir:.
         │  Game_Of_Squids
 ```
 
-  
+### Play:
+```python
+python main.py
+```
