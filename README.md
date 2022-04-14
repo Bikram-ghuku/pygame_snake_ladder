@@ -1,6 +1,6 @@
 # Pygame Snake and Ladder
 ![Github Top Language](https://img.shields.io/github/languages/top/Bikram-ghuku/pygame_snake_ladder)
-![Github License](https://img.shields.io/github/license/Bikram-ghuku/cerial)
+![Github License](https://img.shields.io/github/license/Bikram-ghuku/pygame_snake_ladder)
 ![Github release](https://img.shields.io/github/v/release/Bikram-ghuku/pygame_snake_ladder)
 
 
