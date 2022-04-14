@@ -31,7 +31,7 @@ python main.py
 ### Images
 
 Game image:
-![Game board](https://github.com/Bikram-ghuku/pygame_snake_ladder/blob/main/images/game.jpg?raw=true)
+![Game board](https://github.com/Bikram-ghuku/pygame_snake_ladder/blob/main/images/game.jpg?raw=true)\n\n
 
 Winner Screen
 ![Game board](https://github.com/Bikram-ghuku/pygame_snake_ladder/blob/main/images/win.jpg?raw=true)
