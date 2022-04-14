@@ -21,7 +21,7 @@ rootdir:.
     │  dice_6.jpeg
     │  board.png
     └───fonts
-        │  Game_Of_Squids
+        │  Game_Of_Squids.ttf
 ```
 
 ### Play:
